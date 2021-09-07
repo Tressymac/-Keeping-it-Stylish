@@ -1,0 +1,43 @@
+.box1 {
+    background-color: rgb(255, 1, 44);
+        height: 100px;
+        width: 100px;
+  }
+  
+  .box2 {
+    background-color: rgb(0, 17, 255);
+        Height: 400px;
+        width: 300px; 
+            border: 2px red solid;
+            
+  }
+
+  .box3 {
+      background-color: green;
+        height: 600px;
+        width: 250px;
+            border: 6px;
+  }
+
+  #text {
+      text-align: center;
+        color: white;
+
+  }
+
+  .h1 {
+      width: 400px;
+        text-align: center;
+            color: white;
+  }
+
+  .h2 {
+      width: 800px;
+        text-align: right;
+            color: orange;
+  }
+
+  #body {
+      background-color: rebeccapurple;
+      border: none;
+  }
